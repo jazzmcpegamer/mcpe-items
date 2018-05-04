@@ -1,3 +1,6 @@
 # mcpe-items
 Minecraft PE inventory pictures used in ShopUI and other UI plugins.
-the item folder does not have all the items pictures it was to much to upload to github download items.zip for the full list.
+#Why use these?
+if you check out the ShopUI I upload some time ago you will notice in the main.php file that the pictures all supplied by a website. If that website link is down or the link changed your item picture will not be shown in the UI.
+#recomendations
+If you run your mcpe server using a vps upload it there so you do not have to worry about the items not showing up if the link is down.
